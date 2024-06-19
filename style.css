@@ -1,0 +1,167 @@
+.ram {
+    margin-left: 200px;
+    border: 2px solid black;
+    height: 700px;
+    width: 70%;
+}
+
+.sec1 {
+    margin-left: 540px;
+    background-image: url(https://i0.wp.com/happypaintingsbycraig.com/wp-content/uploads/2019/03/Gray-Mountain.jpg?resize=1024%2C800&ssl=1);
+    background-size: cover;
+    height: 700px;
+    width: 334px;
+    margin-top: -190px;
+}
+
+.sec1 h1 {
+    margin-left: 120px;
+    margin-top: 190px;
+    font: 40px;
+    color: azure;
+}
+
+.sec1 p {
+    margin-left: 120px;
+    font: 40px;
+    margin-top: -20px;
+    color: azure;
+}
+
+.sec3 {
+    background-image: url(https://preview.redd.it/jungle-backgrounds-1920x1080-v0-d8d723hzwdh91.png?width=1080&crop=smart&auto=webp&s=16c2085a0337bc773dc0310fdd29e5f4d4f67a7a);
+    background-size: cover;
+    margin-top: -890px;
+    height: 300px;
+    width: 540px;
+}
+
+.sec4 h1 {
+    margin-left: 120px;
+    margin-top: 190px;
+    font: 40px;
+    color: azure;
+}
+
+.sec4 p {
+    margin-left: 120px;
+    font: 40px;
+    margin-top: -20px;
+    color: azure;
+}
+
+.sec5 {
+    background-image: url(https://assets1.cbsnewsstatic.com/hub/i/2020/06/08/2f20cdef-ab96-4b51-af4e-cb44d4a4d68f/oceans-sun-promo.jpg);
+    background-size: cover;
+    margin-top: -190px;
+    height: 140px;
+    width: 271px;
+}
+
+.sec6 h1 {
+    margin-left: 40px;
+    margin-top: 190px;
+    font: 40px;
+    color: azure;
+
+}
+
+.sec6 p {
+    margin-left: 40px;
+    font: 40px;
+    margin-top: -20px;
+    color: azure;
+}
+
+.sec7 {
+    background-image: url(https://www.spectruminteriors.co.in/wp-content/uploads/2021/01/DSC04329-2048x1152.jpg);
+    background-size: cover;
+    margin-top: -190px;
+    height: 90px;
+    width: 130px;
+}
+
+.sec8 h1 {
+    margin-left: 40px;
+    margin-top: 190px;
+    font-size: 15px;
+    color: yellow;
+}
+
+.sec8 p {
+    margin-left: 30px;
+    font: 10px;
+    margin-top: 10px;
+    color: azure;
+}
+
+.sec9 {
+    background-image: url(https://img.freepik.com/free-photo/seascape-texture-waves-water-generative-ai_169016-30500.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 271px;
+    margin-left: 269px;
+    margin-top: -420px;
+}
+.sec10 h1{
+    margin-left: 90px;
+    margin-top: 190px;
+    font: 40px;
+    color: azure;
+}
+.sec10 p{
+    margin-left: 70px;
+    font: 10px;
+    margin-top: -15px;
+    color: azure;
+}
+.sec11{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Varkala._jpg.jpg/1920px-Varkala._jpg.jpg);
+    background-size: cover;
+    margin-left: 130px;
+    margin-top: -282px;
+    height: 259px;
+    width: 139px;
+
+}.sec12 h1{
+    font: px;
+    color: azure;
+}
+.sec12 p{
+    font: 10px;
+    margin-top: -15px;
+    color: azure;
+}
+.sec13{
+    background: rgb(157, 213, 232);
+    height: 60px;
+    width: 70px;
+    margin-top: -190px;
+}
+.sec14 h4{
+    color: azure;
+}
+.sec15{
+    background: rgb(231, 174, 230);
+    height: 175px;
+    width: 65px;
+    margin-left: 65px;   
+    margin-top: -60px;
+}
+.sec16{
+    background: rgb(208, 236, 167);
+    height: 109px;
+    width: 30px;
+    margin-left: 1px;   
+    margin-top: -115px;
+
+}
+.sec17{
+    
+    background: rgb(135, 93, 116);
+    height: 109px;
+    width: 33px;
+    margin-left: 32px;   
+    margin-top: -108px;
+
+}
